@@ -16,5 +16,10 @@ namespace TestProjectGit
         {
             InitializeComponent();
         }
+
+        public void GetSafta(String safta)
+        {
+
+        }
     }
 }
